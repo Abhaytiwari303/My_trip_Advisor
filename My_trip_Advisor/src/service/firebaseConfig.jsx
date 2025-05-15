@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDsriPoaOE0h7VV2DbLOP1p7JTYSu_CrDA",
+  apiKey: "Your firebasekey",
   authDomain: "materials-management-a7205.firebaseapp.com",
   projectId: "materials-management-a7205",
   storageBucket: "materials-management-a7205.firebasestorage.app",
